@@ -1,3 +1,3 @@
-# 31005 Assignment 1
+# WGAN Pokmon image generation
 
-Here is the place that I setted my Homework :)
+This is one of the project that I did before, Generating new Pokmon image using WGAN framework.
